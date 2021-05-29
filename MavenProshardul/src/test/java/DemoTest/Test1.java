@@ -99,6 +99,7 @@ public class Test1 {
             lrp.fordata(first, last, phone, mail, address, city, state, country1, username, password, confirm);
 			lrp.reglogbutton();
 			log.info("User Registration process complete");
+		log.info("Git Update for Pull request");
 		
 	}
 		
