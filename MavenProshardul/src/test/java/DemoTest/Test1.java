@@ -100,6 +100,7 @@ public class Test1 {
 			lrp.reglogbutton();
 			log.info("User Registration process complete");
 		log.info("Git Update for Pull request");
+		log.info("Git Update for Pull request");
 		
 	}
 		
